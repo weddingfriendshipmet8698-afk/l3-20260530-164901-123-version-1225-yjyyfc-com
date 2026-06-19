@@ -1,0 +1,13 @@
+{
+  "moviesParsed": 2000,
+  "detailPages": 2000,
+  "categoryPages": 12,
+  "categoryCoverage": 2000,
+  "htmlFiles": 2016,
+  "analyticsMissing": [],
+  "coreMissing": [],
+  "allDetailsEqualMovies": true,
+  "allCategoriesCoverMovies": true,
+  "zipPath": "/mnt/data/高清影视片库_静态电影网站.zip",
+  "videoUrlsFromOriginalJs": 150
+}
